@@ -1,0 +1,85 @@
+.first {
+	background-color: green;	
+	border: 5px solid #32AED4;
+	border-radius: 10px;
+}
+
+.first a {
+	background: red;
+	margin-left: 290px;
+}
+
+.second {
+	background-color: orange;
+	border-right: 2px;
+	border: 5px solid #32AED4;
+	border-radius: 10px;
+}
+
+.second a {
+	background: pink;
+	margin-left: 290px;
+}
+
+.three {
+	background-color: red;
+	border: 5px solid #32AED4;
+	border-radius: 10px;
+}
+
+.three a {
+	background: orange;
+	margin-left: 290px;
+}
+
+.four {
+	background-color: white;
+	padding: 100px 100px 0px 100px;
+	border: 5px solid #32AED4;
+	border-radius: 10px;
+}
+
+.four a {
+	margin-left: 417px;
+	position: relative;
+	top: -36px;
+	font-size: 25px;
+}
+
+.four hr {
+	border-top: 3px dotted blue;
+	margin-top: 103px;
+
+}
+
+.five {
+	background-color: #0066ff;
+	margin: 5px;
+	border-radius: 10px;
+	height: 500px;
+	margin-top: 5px;
+	max-width: 31.5%;
+}
+
+.five a {
+	margin-left: 240px;
+	position: relative;
+	top: -35px;
+	font-size: 25px;
+	color: white;
+}
+
+.five .date {
+	margin-left: 1px;	
+	margin-top: 35px;
+	font-size: 12px;
+}
+
+.five hr {
+	border-top: 3px dotted white;
+	margin-top: -25px;
+}
+
+.image {
+	border-radius: 10px;
+}
